@@ -10,11 +10,11 @@ This work is maintained by a community of hundreds of people and is a _massive c
 # Cosmic Structure
 
 Following is the high-level structure of cosmos:
-* Artificial intelligence
-* Backtracking
-* Bit manipulation
-* Cellular automaton
-* Compression algorithms
+* Artificial intelligence (人工智能)
+* Backtracking (回溯算法)
+* Bit manipulation (位操作)
+* Cellular automaton (细胞自动机)
+* Compression algorithms (压缩算法)
 * Computational geometry
 * Cryptography
 * Data structures
